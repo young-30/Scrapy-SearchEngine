@@ -1,0 +1,28 @@
+1548309174729	geckodriver	INFO	Listening on 127.0.0.1:33052
+1548309608968	geckodriver	INFO	Listening on 127.0.0.1:33282
+1548309714206	geckodriver	INFO	Listening on 127.0.0.1:33340
+1548309741908	geckodriver	INFO	Listening on 127.0.0.1:33359
+1548310213695	geckodriver	INFO	Listening on 127.0.0.1:33602
+1548310466086	geckodriver	INFO	Listening on 127.0.0.1:33654
+1548310469292	mozprofile::profile	INFO	Using profile path C:\Users\V451\AppData\Local\Temp\rust_mozprofile.1saG6OVGpZUK
+1548310469315	geckodriver::marionette	INFO	Starting browser D:\火狐浏览器\firefox.exe with args []
+1548310469521	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33662
+1548310476259	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548310476260	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548310489305	Marionette	INFO	Listening on port 2828
+1548310607428	geckodriver	INFO	Listening on 127.0.0.1:33840
+1548310610478	mozprofile::profile	INFO	Using profile path C:\Users\V451\AppData\Local\Temp\rust_mozprofile.QJjO1wLkWXHG
+1548310610488	geckodriver::marionette	INFO	Starting browser D:\火狐浏览器\firefox.exe with args []
+1548310610726	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33848
+1548310613233	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548310613234	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548310622679	Marionette	INFO	Listening on port 2828
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1548310658849	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
